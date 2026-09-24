@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.cubin_cache/
+ckpt/
+data/
+*.pt
+*.pid
+logs/
